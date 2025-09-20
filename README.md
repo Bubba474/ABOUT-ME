@@ -36,4 +36,4 @@ I love building clean, efficient code and learning new technologies.
 - Collaborate with other developers on **innovative projects**
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/bernardo-pereira-rodrigues-a81672342)  
+(https://www.linkedin.com/in/bernardo-pereira-rodrigues-a81672342)  
