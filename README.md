@@ -3,8 +3,6 @@ Python developer | OOP enthusiast | AI &amp; Web Development explorer | Building
 
 # Hi, I'm Bernardo 👋
 
-![Profile Banner](https://raw.githubusercontent.com/Bubba474/Bubba474/main/banner.png) <!-- opcional, se quiser adicionar uma imagem -->
-
 ## 👨‍💻 About Me
 I'm a **Python developer** with a strong foundation in **Object-Oriented Programming (OOP)**.  
 I love building clean, efficient code and learning new technologies.  
