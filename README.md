@@ -36,5 +36,4 @@ I love building clean, efficient code and learning new technologies.
 - Collaborate with other developers on **innovative projects**
 
 ## 🔗 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-ff69b4?style=flat&logo=ko-fi&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://www.linkedin.com/in/bernardo-pereira-rodrigues-a81672342)  
